@@ -13,6 +13,8 @@ import android.widget.TextView;
 //import android.R;
 //change 1
 //commit 2
+//commit 3
+//commit 4
 public class MainActivity extends ListActivity {
 
     private static final String[] items = {"acece", "bcdc", "bd", "ccdcwdc", "dcrcee", "ecerccc", "feee",
